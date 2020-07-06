@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "td10",
+    "texture": "fcd1feb1-bec1-4b5c-a01f-fc857ef37a98",
+    "atlas": "",
+    "rect": [
+      68,
+      70,
+      278,
+      255
+    ],
+    "offset": [
+      7,
+      2.5
+    ],
+    "originalSize": [
+      400,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "carRotate",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Background": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "945ea53d-6ba4-43b2-90a7-43fa7d935541"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "27ffee0c-692d-43f3-9397-8919b89dd9ef"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "a3514125-a548-48bf-a495-e401872a991d"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "8781d0af-bc8c-418a-b6e3-9b6f7ef6e52c"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "ab839ce5-bb0d-4d8e-8426-d2bc19a6d944"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "8272a2f6-f508-4c67-9cbe-6ec1ee803b24"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "4690175a-a52d-4dd2-8f5e-b938cd5579cb"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "257723d4-c545-4d1e-ae35-4f031995b0d7"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": []
+        }
+      }
+    },
+    "props": {
+      "scale": [],
+      "height": []
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "通关失败",
+    "texture": "42cedbf9-7bb3-4fdc-afd4-2902ff8a98d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

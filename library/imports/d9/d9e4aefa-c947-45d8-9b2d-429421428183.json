@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关卡选择",
+    "texture": "96da0239-5403-48e1-a8c8-c12abe6029b6",
+    "atlas": "",
+    "rect": [
+      47,
+      118,
+      455,
+      110
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      550,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

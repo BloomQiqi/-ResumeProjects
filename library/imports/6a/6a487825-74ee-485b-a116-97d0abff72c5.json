@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "成功通关",
+    "texture": "a3251f9c-6bde-4f12-88e1-33591a603c24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

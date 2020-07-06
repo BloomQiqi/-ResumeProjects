@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "提示按钮",
+    "texture": "d290cd1b-f9b8-4df3-960d-ca00a2c15282",
+    "atlas": "",
+    "rect": [
+      15,
+      30,
+      310,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

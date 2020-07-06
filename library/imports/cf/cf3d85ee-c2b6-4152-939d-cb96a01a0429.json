@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "返回按钮",
+    "texture": "d38b80a7-6ec7-4a2d-bc0a-25ba82961b90",
+    "atlas": "",
+    "rect": [
+      120,
+      30,
+      310,
+      280
+    ],
+    "offset": [
+      60,
+      0
+    ],
+    "originalSize": [
+      430,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

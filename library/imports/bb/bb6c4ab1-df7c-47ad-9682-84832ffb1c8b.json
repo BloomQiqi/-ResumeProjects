@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "passTheGame",
+    "texture": "f81f09e6-dd95-4246-9cbe-dd6848e9f27e",
+    "atlas": "",
+    "rect": [
+      23,
+      49,
+      505,
+      243
+    ],
+    "offset": [
+      0.5,
+      4.5
+    ],
+    "originalSize": [
+      550,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

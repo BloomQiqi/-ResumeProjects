@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tipKnowledgebackGround2",
+    "texture": "94c69059-ac5b-4a1d-9af8-377b29e07a29",
+    "atlas": "",
+    "rect": [
+      163,
+      160,
+      210,
+      310
+    ],
+    "offset": [
+      -15.5,
+      39.5
+    ],
+    "originalSize": [
+      567,
+      709
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

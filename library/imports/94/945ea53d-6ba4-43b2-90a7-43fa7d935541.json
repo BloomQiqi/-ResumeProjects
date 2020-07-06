@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "垃圾车1",
+    "texture": "1decc471-5a72-4b1e-8399-4bc3fa0f2f7d",
+    "atlas": "",
+    "rect": [
+      10,
+      80,
+      480,
+      220
+    ],
+    "offset": [
+      0,
+      -40
+    ],
+    "originalSize": [
+      500,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "life4",
+    "texture": "d385aa6e-2510-4989-83a3-52af8f5a8bb3",
+    "atlas": "",
+    "rect": [
+      0,
+      96,
+      340,
+      109
+    ],
+    "offset": [
+      0,
+      19.5
+    ],
+    "originalSize": [
+      340,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

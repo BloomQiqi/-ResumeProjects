@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "下一关",
+    "texture": "7ceb43dd-a657-4373-899f-a7ded3e5ec36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

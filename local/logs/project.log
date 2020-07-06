@@ -1,0 +1,74 @@
+2020-07-06T01:13:12.090Z - normal: Load ~/.CocosCreator/settings.json
+2020-07-06T01:13:12.435Z - normal: Initializing Asset Database
+2020-07-06T01:13:12.497Z - normal: checking language setting...
+2020-07-06T01:13:12.497Z - normal: Language: zh
+2020-07-06T01:13:15.948Z - success: preview server running at http://localhost:7456
+2020-07-06T01:13:15.964Z - success: protocol editor-framework registered
+2020-07-06T01:13:15.965Z - success: protocol app registered
+2020-07-06T01:13:15.965Z - success: protocol theme registered
+2020-07-06T01:13:15.965Z - success: protocol packages registered
+2020-07-06T01:13:15.965Z - success: protocol uuid registerred
+2020-07-06T01:13:15.965Z - success: protocol db registerred
+2020-07-06T01:13:15.966Z - success: protocol thumbnail registerred
+2020-07-06T01:13:15.966Z - success: protocol unpack registerred
+2020-07-06T01:13:15.966Z - success: protocol disable-commonjs registerred
+2020-07-06T01:13:16.439Z - normal: connected!
+2020-07-06T01:13:16.442Z - normal: Check project D:\CocosCreater_Projectfile\FirstGitCloneProjectYouMeiziyuan44\LaBangJiPai_WeChatGame_CocosCreater
+2020-07-06T01:13:16.450Z - normal: Initializing project D:\CocosCreater_Projectfile\FirstGitCloneProjectYouMeiziyuan44\LaBangJiPai_WeChatGame_CocosCreater
+2020-07-06T01:13:16.552Z - success: adapters loaded
+2020-07-06T01:13:16.565Z - success: asset-db-debugger loaded
+2020-07-06T01:13:16.780Z - success: fb-audience-network loaded
+2020-07-06T01:13:16.885Z - success: fb-live-stream loaded
+2020-07-06T01:13:16.896Z - success: google-play-instant loaded
+2020-07-06T01:13:16.898Z - success: huawei-adapter loaded
+2020-07-06T01:13:16.900Z - success: jkw-adapter loaded
+2020-07-06T01:13:16.902Z - success: jsb-adapter loaded
+2020-07-06T01:13:16.904Z - success: oppo-adapter loaded
+2020-07-06T01:13:16.917Z - success: package-manager loaded
+2020-07-06T01:13:16.919Z - success: qtt-adapter loaded
+2020-07-06T01:13:16.930Z - success: runtime-dev-tools loaded
+2020-07-06T01:13:16.953Z - success: sdkbox loaded
+2020-07-06T01:13:16.963Z - success: ui-kit-preview-extra loaded
+2020-07-06T01:13:16.972Z - success: ui-kit-preview loaded
+2020-07-06T01:13:16.974Z - success: vivo-adapter loaded
+2020-07-06T01:13:17.158Z - success: alipay-minigame loaded
+2020-07-06T01:13:17.320Z - success: assets loaded
+2020-07-06T01:13:17.328Z - success: baidugame-opendata loaded
+2020-07-06T01:13:17.338Z - success: baidugame loaded
+2020-07-06T01:13:17.398Z - success: builder loaded
+2020-07-06T01:13:17.822Z - success: cocos-services loaded
+2020-07-06T01:13:17.834Z - success: console loaded
+2020-07-06T01:13:17.839Z - success: curve-editor loaded
+2020-07-06T01:13:17.891Z - success: fb-instant-games loaded
+2020-07-06T01:13:17.895Z - success: game-window loaded
+2020-07-06T01:13:17.898Z - success: google-instant-games loaded
+2020-07-06T01:13:17.905Z - success: hierarchy loaded
+2020-07-06T01:13:17.920Z - success: huawei-runtime loaded
+2020-07-06T01:13:17.926Z - success: inspector loaded
+2020-07-06T01:13:18.146Z - success: cpk-publish loaded
+2020-07-06T01:13:18.148Z - success: keystore loaded
+2020-07-06T01:13:18.161Z - success: node-library loaded
+2020-07-06T01:13:18.163Z - success: open-recent-items loaded
+2020-07-06T01:13:18.175Z - success: oppo-runtime loaded
+2020-07-06T01:13:18.182Z - success: package-asset loaded
+2020-07-06T01:13:18.185Z - success: preferences loaded
+2020-07-06T01:13:18.190Z - success: project-importer loaded
+2020-07-06T01:13:18.195Z - success: project-settings loaded
+2020-07-06T01:13:18.251Z - success: qtt-runtime loaded
+2020-07-06T01:13:18.263Z - success: scene loaded
+2020-07-06T01:13:18.265Z - success: simulator-debugger loaded
+2020-07-06T01:13:18.268Z - success: sprite-editor loaded
+2020-07-06T01:13:18.276Z - success: store loaded
+2020-07-06T01:13:18.285Z - success: timeline loaded
+2020-07-06T01:13:18.306Z - success: vivo-runtime loaded
+2020-07-06T01:13:18.315Z - success: wechatgame-opendata loaded
+2020-07-06T01:13:18.352Z - success: wechatgame loaded
+2020-07-06T01:13:18.364Z - success: xiaomi-runtime loaded
+2020-07-06T01:13:21.536Z - info: Cocos Service load base data!
+2020-07-06T01:13:22.809Z - normal: Initializing Cocos2d
+2020-07-06T01:13:23.944Z - normal: Initializing engine extends
+2020-07-06T01:13:48.826Z - normal: Loading packages
+2020-07-06T01:13:48.841Z - normal: Watching packages
+2020-07-06T01:13:51.459Z - normal: Run Application
+2020-07-06T01:14:04.421Z - warn: No needs to indicate the 'cc.Boolean' attribute for "tipPage.upFlag", which its default value is type of Boolean.
+2020-07-06T01:14:04.425Z - warn: No needs to indicate the 'cc.Boolean' attribute for "tipPhoto.upFlag", which its default value is type of Boolean.

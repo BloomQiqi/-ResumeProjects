@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关闭按钮",
+    "texture": "9c019b2b-222f-4771-95cd-94f1938dac6f",
+    "atlas": "",
+    "rect": [
+      15,
+      35,
+      310,
+      280
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      340,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

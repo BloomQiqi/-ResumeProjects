@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "暂停",
+    "texture": "ce6aecf8-1a8c-4c2e-85dd-7d1eba06d5b5",
+    "atlas": "",
+    "rect": [
+      189,
+      49,
+      124,
+      231
+    ],
+    "offset": [
+      -24,
+      10.5
+    ],
+    "originalSize": [
+      550,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

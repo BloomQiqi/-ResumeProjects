@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "45d31d54-e649-4bce-a54b-ee2f2fd6652f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "透明塑料药瓶": {
+      "ver": "1.0.4",
+      "uuid": "8430ff10-0090-4ad5-a007-30cad678be34",
+      "rawTextureUuid": "45d31d54-e649-4bce-a54b-ee2f2fd6652f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 100,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

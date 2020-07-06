@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "elfin_1",
+    "texture": "0b668e4f-27e6-4da1-a0b2-e470cfc65f41",
+    "atlas": "",
+    "rect": [
+      34,
+      20,
+      112,
+      198
+    ],
+    "offset": [
+      -15,
+      -8
+    ],
+    "originalSize": [
+      210,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "垃圾提示图片",
+    "texture": "6ac0aa8c-a9dd-4668-b248-9e2ff3bcde3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      1039
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      724,
+      1039
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

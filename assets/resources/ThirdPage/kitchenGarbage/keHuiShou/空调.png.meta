@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e18694c1-5ad5-4774-a724-d2d7f722b845",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "空调": {
+      "ver": "1.0.4",
+      "uuid": "c0b1adee-eb9e-495a-910e-d057f90f413e",
+      "rawTextureUuid": "e18694c1-5ad5-4774-a724-d2d7f722b845",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 100,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

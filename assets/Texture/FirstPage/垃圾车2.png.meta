@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d20d3bfa-d03d-44a8-8570-59613d2ca74b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "垃圾车2": {
+      "ver": "1.0.4",
+      "uuid": "27ffee0c-692d-43f3-9397-8919b89dd9ef",
+      "rawTextureUuid": "d20d3bfa-d03d-44a8-8570-59613d2ca74b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -40,
+      "trimX": 10,
+      "trimY": 80,
+      "width": 480,
+      "height": 220,
+      "rawWidth": 500,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

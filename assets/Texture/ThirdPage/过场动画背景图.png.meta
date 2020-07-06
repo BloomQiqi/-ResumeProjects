@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cede048f-c344-4eed-8f9d-403ca118895e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 720,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "过场动画背景图": {
+      "ver": "1.0.4",
+      "uuid": "3f1f89d9-4601-4028-8a09-d35c03d4deba",
+      "rawTextureUuid": "cede048f-c344-4eed-8f9d-403ca118895e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1080,
+      "rawWidth": 720,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

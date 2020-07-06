@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "春联",
+    "texture": "49137931-c0d2-4500-b622-ca5b578bacdb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

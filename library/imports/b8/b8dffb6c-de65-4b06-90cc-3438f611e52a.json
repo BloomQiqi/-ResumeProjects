@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "garbage4",
+    "texture": "0e5b45d5-5cc8-49ea-a048-b45ae7001de3",
+    "atlas": "",
+    "rect": [
+      0,
+      28,
+      200,
+      250
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      200,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

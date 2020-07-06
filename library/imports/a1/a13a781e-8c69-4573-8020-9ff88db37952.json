@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notPass",
+    "texture": "ae56489d-bcf6-4bec-87c1-863bd75068e1",
+    "atlas": "",
+    "rect": [
+      23,
+      49,
+      505,
+      243
+    ],
+    "offset": [
+      0.5,
+      4.5
+    ],
+    "originalSize": [
+      550,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

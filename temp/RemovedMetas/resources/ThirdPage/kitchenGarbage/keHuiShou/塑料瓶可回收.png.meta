@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d13d262c-97d8-4566-99d1-18a98994f687",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "塑料瓶可回收": {
+      "ver": "1.0.4",
+      "uuid": "24f6a81c-c0a5-44cc-83d5-d9099fa2c888",
+      "rawTextureUuid": "d13d262c-97d8-4566-99d1-18a98994f687",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 100,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
